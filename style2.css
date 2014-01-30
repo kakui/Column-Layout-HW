@@ -1,0 +1,22 @@
+
+body{
+	background-color: lightgreen;
+}
+
+#left{
+	max-width: 300px;
+	position: absolute;
+}
+
+#center{
+	max-width: 250px;
+	margin-left: 300px;
+	position: absolute;
+}
+
+
+#right{
+	max-width: 250px;
+	margin-left: 600px;
+	position: absolute;
+}
